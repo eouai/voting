@@ -13,6 +13,7 @@ from nordvpn_switcher import initialize_VPN, rotate_VPN, terminate_VPN
 URL = 'http://www.votebowv.com/PacificPoppy'
 
 path = os.path.normpath('C:\\Users\\Burt\\Documents\\Git\\voting\\')
+gecko_path = os.path.normpath('C:\\Users\\Burt\\Documents\\Git\\geckodriver\\')
 # initialize_VPN(save=1,area_input=['complete rotation'])
 initialize_VPN(save=1, area_input=['United States'])
 with open(os.path.join(path, 'counts.json'), 'r') as f:
@@ -40,7 +41,7 @@ for i in tqdm.tqdm(range(1,800)):
 			json.dump(errors, f)
 
 	try:
-		browser = webdriver.Firefox(executable_path=os.path.join(path, 'geckodriver.exe'))
+		browser = webdriver.Firefox(executable_path=os.path.join(gecko_path, 'geckodriver.exe'))
 		counts[URL] = counts.get(URL, 0) + 1
 		with open(os.path.join(path, 'counts.json'), 'w') as f:
 			json.dump(counts, f)

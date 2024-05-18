@@ -1,0 +1,46 @@
+{"http://www.votebowv.com/PacificPoppy": 
+  {"count": 22, 
+  "Message: Unable to locate element: //*[@id='confirm-delete-ok']\n": 21, 
+  "Message: Failed to decode response from marionette\n": 1}, 
+  "VPN": {"count": 13, "Can't fetch current ip, even after retrying... Check your internet connection.": 13}}
+{"http://www.votebowv.com/PacificPoppy": 
+  {"count": 216, 
+  "Message: Unable to locate element: //*[@id='confirm-delete-ok']\n": 7, 
+  "Message: Reached error page: about:neterror?e=dnsNotFound&u=http%3A//www.votebowv.com/PacificPoppy&c=UTF-8&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.votebowv.com.\n": 209}, 
+  "VPN": {"count": 213, "Can't fetch current ip, even after retrying... Check your internet connection.": 212, "Unable to connect to a new server. Please check your internet connection.\n": 1}}
+{"VPN": 
+  {"count": 54, 
+  "Can't fetch current ip, even after retrying... Check your internet connection.": 52, 
+  "[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond": 1, 
+  "Unable to connect to a new server. Please check your internet connection.\n": 1}, 
+  "http://www.votebowv.com/PacificPoppy": {"count": 68, 
+  "Message: Unable to locate element: //*[@id='confirm-delete-ok']\n": 34, 
+  "Message: Unable to locate element: //*[@id='nomineeSub_0']\n": 3, 
+  "Message: Navigation timed out after 300000 ms\n": 1, 
+  "Message: Reached error page: about:neterror?e=dnsNotFound&u=http%3A//www.votebowv.com/PacificPoppy&c=UTF-8&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.votebowv.com.\n": 30}}
+{"VPN": {"count": 5, 
+  "Can't fetch current ip, even after retrying... Check your internet connection.": 5}, 
+  "http://www.votebowv.com/PacificPoppy": {"count": 11, 
+  "Message: Unable to locate element: //*[@id='confirm-delete-ok']\n": 10, 
+  "Message: Unable to locate element: //*[@id='nomineeSub_0']\n": 1}}
+{"http://www.votebowv.com/PacificPoppy": {"count": 26, 
+  "Message: Unable to locate element: //*[@id='confirm-delete-ok']\n": 21, 
+  "Message: Unable to locate element: //*[@id='nomineeSub_0']\n": 4, 
+  "Message: Reached error page: about:neterror?e=dnsNotFound&u=http%3A//www.votebowv.com/PacificPoppy&c=UTF-8&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.votebowv.com.\n": 1}, 
+  "VPN": {"count": 18, 
+  "Can't fetch current ip, even after retrying... Check your internet connection.": 18}}
+{"VPN": {"count": 85, 
+  "Can't fetch current ip, even after retrying... Check your internet connection.": 84, 
+  "Unable to connect to a new server. Please check your internet connection.\n": 1}, 
+  "http://www.votebowv.com/PacificPoppy": {"count": 99, 
+  "Message: Unable to locate element: //*[@id='confirm-delete-ok']\n": 34, 
+  "Message: Reached error page: about:neterror?e=dnsNotFound&u=http%3A//www.votebowv.com/PacificPoppy&c=UTF-8&d=We%20can%E2%80%99t%20connect%20to%20the%20server%20at%20www.votebowv.com.\n": 62, 
+  "Message: Navigation timed out after 300000 ms\n": 2, 
+  "Message: Unable to locate element: //*[@id='nomineeSub_0']\n": 1}}
+{"http://www.votebowv.com/PacificPoppy": {"count": 133, 
+  "Message: Unable to locate element: //*[@id='confirm-delete-ok']\n": 29, 
+  "Message: Navigation timed out after 300000 ms\n": 1, 
+  "Message: Unable to locate element: //*[@id='nomineeSub_0']\n": 103}, 
+  "VPN": {"count": 28, 
+  "Can't fetch current ip, even after retrying... Check your internet connection.": 28}}
+

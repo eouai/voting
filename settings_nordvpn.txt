@@ -1,0 +1,1 @@
+{"opsys": "Windows", "command": ["nordvpn", "-c", "-g"], "settings": ["united states"], "original_ip": "45.85.144.216", "cwd_path": "C:/Program Files/NordVPN"}
